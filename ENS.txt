@@ -1,0 +1,4 @@
+1. Prepre report on verious seourity trends and security services.
+2. Prepre report on verious security attacks of security mechanism.
+3. Prepre report on verious OSI security aruhitecture.
+4. Prepre report on verious verious crypto graphi techiques.
